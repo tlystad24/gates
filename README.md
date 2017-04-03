@@ -1,7 +1,7 @@
 # Logiske porter
 
 
-### And gate
+### And gate - HEF4081BP
 #### Kobling
 <img width="450" alt="schematic" src="https://cloud.githubusercontent.com/assets/18582452/24607457/2ad97b4e-1872-11e7-9ce6-e2d1bef17a60.jpg">
 
