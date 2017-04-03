@@ -46,5 +46,5 @@ void loop() {
   digitalWrite(IC1, LOW);
   digitalWrite(IC2, LOW);
   delay(1000);
-}}
+}
 ```
